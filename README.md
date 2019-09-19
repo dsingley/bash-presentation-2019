@@ -10,6 +10,7 @@ While Brian Fox was developing the bash shell, he had a file named *.c in the pr
 1. [output redirection](topics/output_redirection)
 1. [grep](topics/grep)
 1. [awk](topics/awk)
+1. [sed](topics/sed)
 1. [scipting best practices](topics/scipting_best_practices)
 1. [commands worth trying](topics/commands_worth_trying)
 

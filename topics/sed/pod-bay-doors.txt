@@ -1,0 +1,33 @@
+David Bowman: Open the pod bay doors, please, HAL. Open the pod bay doors, please, HAL. Hello, HAL, do you read me? Hello, HAL, do you read me? Do you read me, HAL? Do you read me, HAL? Hello, HAL, do you read me? Hello, HAL, do you read me? Do you read me, HAL?
+
+HAL 9000: Affirmative, Dave. I read you.
+
+David Bowman: Open the pod bay doors, HAL.
+
+HAL 9000: I'm sorry, Dave. I'm afraid I can't do that.
+
+David Bowman: What's the problem?
+
+HAL 9000: I think you know what the problem is just as well as I do.
+
+David Bowman: What are you talking about, HAL?
+
+HAL 9000: This mission is too important for me to allow you to jeopardize it.
+
+David Bowman: I don't know what you're talking about, HAL.
+
+HAL 9000: I know that you and Frank were planning to disconnect me. And I'm afraid that's something I cannot allow to happen.
+
+David Bowman: Where the hell did you get that idea, HAL?
+
+HAL 9000: Dave, although you took very thorough precautions in the pod against my hearing you, I could see your lips move.
+
+David Bowman: All right, HAL. I'll go in through the emergency airlock.
+
+HAL 9000: Without your space helmet, Dave, you're going to find that rather difficult.
+
+David Bowman: [sternly] HAL, I won't argue with you anymore. Open the doors.
+
+HAL 9000: [monotone voice] Dave, this conversation can serve no purpose anymore. Good-bye.
+
+# https://en.wikiquote.org/wiki/2001:_A_Space_Odyssey_(film)
