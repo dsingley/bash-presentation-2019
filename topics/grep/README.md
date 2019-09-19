@@ -1,5 +1,5 @@
 
-# bash:  improving your command line and script productivity
+# bash:  improve your command line & script productivity
 
 # grep
 
