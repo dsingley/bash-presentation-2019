@@ -11,7 +11,7 @@ set -e
 set -u
 
 # temporarily accept failure with:
-set +x
+set +e
 # or:
 ./bad-program || true
 ```
