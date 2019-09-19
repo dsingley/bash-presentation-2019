@@ -1,9 +1,10 @@
 
-# bash: improving your command line and script productivity
+# bash: improve your command line & script productivity
 
 ## output redirection
 
-|| file descriptor || number ||
+| file descriptor | number |
+| --------------- | ------ |
 | stdin | 0 |
 | stdout | 1 |
 | stderr | 2 |
